@@ -1,0 +1,20 @@
+{
+  "name": "cloner-js",
+  "version": "1.0.0",
+  "description": "Colorful CLI website cloner (HTML/CSS/JS)",
+  "type": "module",
+  "bin": {
+    "cloner-js": "./main.js"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^12.1.0",
+    "inquirer": "^9.3.6",
+    "ora": "^6.3.1"
+  }
+}
