@@ -14,7 +14,7 @@ Important: This tool is for educational and archival purposes only. Obtain permi
 
 Optional: Add a global command name (Windows PowerShell example):
 - npm link
-- Then run with: cloner-js
+- Then run with: Wehile
 
 ## Usage
 Run interactively:
